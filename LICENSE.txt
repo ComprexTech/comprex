@@ -1,0 +1,33 @@
+COMMERCIAL EVALUATION AND PROPRIETARY LICENSE
+Version 1.0 (October 2026)
+
+Copyright (c) 2026, Comprex Tech. All rights reserved.
+
+1. DEFINITIONS
+"Software" refers to the Comprex software package, including source code, benchmarks, API endpoints, adapters, and documentation contained herein.
+"Author" refers to the sole creator, brand, and copyright owner: Comprex Tech.
+"User" refers to any individual or entity downloading or accessing the Software.
+
+2. LICENSE GRANT & PERMITTED USE
+The Author hereby grants the User a limited, non-exclusive, non-transferable, and revocable license to download and run the Software solely for personal, educational, non-commercial evaluation, and testing purposes.
+
+3. STRICT RESTRICTIONS (COMMERCIAL USE PROHIBITED)
+Any commercial use of the Software is STRICTLY PROHIBITED without obtaining an explicit Enterprise License or acquiring full commercial rights from the Author. Prohibited commercial uses include, but are not limited to:
+- Integrating the Software into production environments of any business, bank, startup, or enterprise.
+- Using the Software to process real commercial data to reduce API costs.
+- Embedding the Software or its algorithms into proprietary products, cloud platforms, or services.
+- Reselling, sub-licensing, or distributing modified or unmodified versions of the Software for profit.
+
+4. ACQUISITION AND INTELLECTUAL PROPERTY SALE
+This Software and its core underlying technology (Intellectual Property) are officially listed for sale. Full commercial rights, exclusive ownership, and unrestricted usage rights can be legally acquired by contacting the Author directly.
+
+5. CONTACT FOR COMMERCIAL RIGHTS & LICENSING
+For Enterprise License acquisition, custom integration, or full buyout of the technology and source code, contact the Author directly via:
+- Email: [comprextech@gmail.com]
+- Telegram: [@ComprexTech]
+
+6. TERMINATION
+This license terminates automatically if the User violates any of the terms outlined above. Upon termination, the User must destroy all copies of the Software.
+
+7. WARRANTY DISCLAIMER
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY.
