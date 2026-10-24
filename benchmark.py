@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-"""Build a 100k-token corporate dump, squeeze it, and print cost savings."""
-
 from __future__ import annotations
 
 import sys
